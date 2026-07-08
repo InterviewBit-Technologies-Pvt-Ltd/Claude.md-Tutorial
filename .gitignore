@@ -1,0 +1,19 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Build output
+build/
+target/
+.gradle/
+out/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.class
+
+# Env / secrets
+.env
+*.local
