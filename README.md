@@ -60,4 +60,8 @@ The team file is where the work compounds. A personal rule book maintained in pa
 
 ## The video
 
-V5 walks through this layout on camera, section by section, with the lineage on screen. This README is the still version of that walk. The video link will appear here once published.
+The video walks through this layout on camera, section by section, with the lineage on screen. This README is the still version of that walk. The video link will appear here once it's live.
+
+## License
+
+MIT — fork it, adapt it, ship it. Keep the copyright line and you're free to use this however you like. See [`LICENSE`](LICENSE).
